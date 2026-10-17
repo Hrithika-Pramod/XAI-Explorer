@@ -168,7 +168,7 @@ with m2:
     st.write("**Important limitation**")
     st.write("Synthetic-data performance does not establish real-world validity or fairness.")
 
-with st.expander("Key concepts for your presentation"):
+with st.expander("Key concepts "):
     st.markdown("""
     - **Explainable AI (XAI):** methods that help people understand model behaviour.
     - **Black-box model:** a model whose internal reasoning is difficult to interpret directly.
