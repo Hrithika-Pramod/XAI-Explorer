@@ -178,4 +178,4 @@ with st.expander("Key concepts "):
     - **Explanation is not causation:** a model contribution does not prove that changing a real-world factor will cause the same outcome.
     """)
 
-st.caption("XAI Explorer • Student demonstration project • Replace synthetic data with a suitable, documented dataset before making empirical claims.")
+st.caption("XAI Explorer • Student demonstration project")
